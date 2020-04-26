@@ -47,7 +47,9 @@
     "javascript",
     "c++",
     "opensource",
-    "cardgame"
+    "cardgame",
+    "smart-contract",
+    "dapp"
   ],
   "author": "@lincolngyn",
   "license": "MIT",
